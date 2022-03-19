@@ -1,0 +1,4 @@
+#Sat Nov 20 05:05:53 IST 2021
+base.0=/Users/sidharthchoudhary/StudioProjects/QuizApp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
